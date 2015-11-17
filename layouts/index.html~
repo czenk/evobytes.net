@@ -1,0 +1,8 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+{{ partial "header.html" . }}
+<h1>Just some distraction</h1>
+{{ partial "about.html" . }}
+{{ partial "services.html" . }}
+{{ partial "contact.html" . }}
+{{ partial "footer.html" . }}

@@ -1,0 +1,24 @@
+baseurl = "http://evobytes.net"
+languageCode = "en-ie"
+title = "evobytes"
+canonifyUrls = "true"
+
+[params]
+    description = "because sharing is caring"
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:webmaster@evobytes.net"
+#[[params.social]]
+#    title = "twitter"
+#    icon = "twitter"
+#    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    icon = "github"
+    url = "https://github.com/czenk"
+[[params.social]]
+    title = "linkedin"
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/christophz"
